@@ -1,6 +1,6 @@
 % -------------------------------------------------------------------------
 %% --------------------------- MLD-figure 10 ------------------------------
-% MLD-figure 11 is almost same, but for 5km; use 'support_file_06.nc';
+% MLD-figure 11 is almost the same, but for 5km; use 'support_file_06.nc';
 % -------------------------------------------------------------------------
 % install m_map for matlab first
 % related-data, 'support_file_05.nc', 'rev-Figure-10.mat'
