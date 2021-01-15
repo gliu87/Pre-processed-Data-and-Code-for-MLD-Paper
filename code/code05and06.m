@@ -1,6 +1,6 @@
 % -------------------------------------------------------------------------
 %% --------------------------- MLD-figure 05 ------------------------------
-% MLD-figure 06 is amlost same, but for deep releases
+% MLD-figure 06 is amlost the same, but for deep releases
 % -------------------------------------------------------------------------
 % install m_map for matlab first
 % related-data, ''
